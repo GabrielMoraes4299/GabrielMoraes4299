@@ -34,7 +34,7 @@ Aqui estão as tecnologias com as quais trabalho:
 ## 🌐 Meu Projeto  
 
 - 🌍 **Acesse o Projeto:** [Easy Request](https://easyrequest.azurewebsites.net)  
-- 📂 **Repositório do GitHub:** [Repositório EasyRequest](https://github.com/anafranciscatto/EASY-REQUEST)  
+- 📂 **Repositório do GitHub:** [Repositório Easy Request](https://github.com/anafranciscatto/EASY-REQUEST)  
 
 ---
 
