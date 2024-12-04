@@ -27,9 +27,7 @@ Aqui estão as tecnologias com as quais trabalho:
 
 ### 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielMoraes4299&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraes4299&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielMoraes4299&show_icons=true&theme=radical) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraes4299&layout=compact&theme=radical)
 
 
 ---
