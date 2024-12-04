@@ -29,6 +29,12 @@ Aqui estão as tecnologias com as quais trabalho:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielMoraes4299&show_icons=true&theme=radical) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraes4299&layout=compact&theme=radical)
 
+---
+
+## 🌐 Meu Projeto  
+
+- 🌍 **Acesse o Projeto:** [Easy Request](https://easyrequest.azurewebsites.net)  
+- 📂 **Repositório do GitHub:** [GabrielMoraes4299/EasyRequest](https://github.com/GabrielMoraes4299/EasyRequest)  
 
 ---
 
