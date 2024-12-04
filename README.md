@@ -26,9 +26,8 @@ Aqui estão as tecnologias com as quais trabalho:
 ---
 
 ## 📬 Entre em Contato  
-- 📧 **gabriel.moraes@example.com** *(Substitua com seu e-mail real)*  
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/seu-perfil) *(Substitua com seu link do LinkedIn)*  
-- 🐦 [Meu Twitter](https://twitter.com/seu-twitter) *(Substitua com seu link do Twitter)*  
+- 📧 **chagasgabriel048@gmail.com**  
+- 🌐 [Meu LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriel-chagas-fernandes-de-moraes-926018339))  
 
 ---  
 
